@@ -1,2 +1,2 @@
 # 1-d_game.github.io
-1-d
+This is a game that puts you into a perspective of a 2-d character, I give full credit to Mashpoe for giving me the code.
